@@ -12,8 +12,8 @@ import random
 import smtplib
 
 # Define your email credentials here
-MY_EMAIL = "jeetkpa2003@gmail.com"
-MY_PASSWORD = "tvxvkwazomaqlqbt"
+MY_EMAIL = "youremail@email.com"
+MY_PASSWORD = "your 2FA password"
 
 # Get today's date as a tuple (month, day)
 today = datetime.now()
