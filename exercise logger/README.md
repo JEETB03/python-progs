@@ -39,7 +39,7 @@ Before running the app, you need:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/exercise-logger.git
+   git clone https://github.com/JEETB03/python-progs/tree/e4fab2ff7da00371ad300f3970601b147b1acf62/exercise%20logger
    ```
 
 2. Navigate to the project directory:
